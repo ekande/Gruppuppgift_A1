@@ -77,7 +77,10 @@ background image
 
 .contentwrapper {
 	max-height:100%;
-	touch-action: pan-y;
+	overflow:visible;
+	-webkit-overflow-scrolling:touch;
+	
+	
 }
 
 /*---------------

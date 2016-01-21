@@ -72,12 +72,12 @@ background image
 	margin-top: 50px;
 	overflow-y:scroll;
 	overflow-x:hidden;
-	-webkit-overflow-scrolling: touch;
-}
+	}
 
 
 .contentwrapper {
 	max-height:100%;
+	touch-action: pan-y;
 }
 
 /*---------------

@@ -70,14 +70,12 @@ background image
 	position:relative;
 	height:1px;
 	margin-top: 50px;
-	overflow-y:scroll;
-	overflow-x:hidden;
+	
 }
 
 
 .contentwrapper {
 	max-height:100%;
-	-webkit-overflow-scrolling:touch;
 }
 
 /*---------------
@@ -189,7 +187,7 @@ content styling
 -------------*/
 
 #about, #contact, #work, #directions{
-  background-color: rgba(20,40,40, 0.8);
+  background-color: rgba(20,20,40, 0.8);
 	margin: 5%;
 	border-radius: 3px;
 }

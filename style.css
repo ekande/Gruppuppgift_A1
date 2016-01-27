@@ -196,13 +196,9 @@ li:target~li {
 content styling
 -------------*/
 
-<<<<<<< HEAD
-#about, #contact, #work, #directions{
-  background-color: rgba(20,20,40, 0.8);
-=======
+
 #about, #contact, #work, #directions {
   background-color: rgba(42,47,54, 0.8);
->>>>>>> master
 	margin: 5%;
 	border-radius: 3px;
 }
